@@ -1,0 +1,5 @@
+For example look at the following text about a clown and a car Look at
+the text and figure out the most common word and how many times it
+the clown ran after the car and the car ran into the tent
+and the tent fell down on the clown and the car
+Then imagine that you are doing this task looking at millions of lines
